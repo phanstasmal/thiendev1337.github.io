@@ -114,6 +114,12 @@
 		</ul>
 
 		<hr>
+
+		{% if page.comments %}
+		<h2>Comments</h2>
+		<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-num-posts="5" data-width="100%"></div>
+		{% endif %}
+
 	</div>
 	
 	<div class="col-sm-2 sidebar-2">

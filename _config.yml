@@ -5,6 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 pygments: true
 markdown: kramdown
+url: https://thiendev1337.github.io
 
 
 defaults:
@@ -14,12 +15,12 @@ defaults:
     values:
       title: thiendev1337
 
-description: Just another blog
+description: Dớt ờ nớ đờ bờ lốc
 author:
   name: thiendev1337
   github: thiendev1337
   twitter: thiendev1337
-  bio: Just another blog
+  bio: Dớt ờ nớ đờ bờ lốc
   email_md5: ebdd75eefbfe7708d5ac1d025c4abc57
 
 rss_path: feed.xml
