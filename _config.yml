@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 pygments: true
 markdown: kramdown
-url: https://thiendev1337.github.io
+url: http://thiendev1337.github.io
 
 
 defaults:
