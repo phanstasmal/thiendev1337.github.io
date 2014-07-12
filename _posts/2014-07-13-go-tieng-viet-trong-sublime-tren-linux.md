@@ -2,10 +2,10 @@
 layout: post
 comments: yes
 title: Gõ tiếng Việt trong sublime trên linux
-description: Sublime&#58; "BoGo, you complete me &#58;3". Gõ tiếng Việt trong sublime trên linux chưa bao giờ thuận tiện và dễ dàng hơn...
+description: Sublime&#58; 'BoGo, you complete me &#58;3'. Gõ tiếng Việt trong sublime trên linux chưa bao giờ thuận tiện và dễ dàng hơn...
 ---
 
-Sublime: "BoGo, you complete me :3"
+Sublime: 'BoGo, you complete me :3'
 
 Gõ tiếng Việt trong sublime từng gặp khó khăn trên linux vì nó không hỗ trợ bộ gõ ibus, 1 số chiêu giang hồ từng sử dụng để gõ được tiếng Việt, như:
 
